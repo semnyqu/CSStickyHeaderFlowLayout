@@ -48,6 +48,10 @@
 
     [self add:nil];
     
+    //解决在iOS11上的版本滑动崩溃的问题
+    if ([self.collectionView respondsToSelector:@selector(setPrefetchingEnabled:)]) {
+        self.collectionView.prefetchingEnabled = false;
+    }
 }
 
 - (void)add:(id)sender

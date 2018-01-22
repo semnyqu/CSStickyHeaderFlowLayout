@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AF1D0D451D63203300F9FA68"
-               BuildableName = "CSStickyHeaderFlowLayoutCarthage.framework"
+               BuildableName = "CSStickyHeaderFlowLayout.framework"
                BlueprintName = "CSStickyHeaderFlowLayoutCarthage"
                ReferencedContainer = "container:CSStickyHeaderFlowLayoutDemo.xcodeproj">
             </BuildableReference>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -46,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF1D0D451D63203300F9FA68"
-            BuildableName = "CSStickyHeaderFlowLayoutCarthage.framework"
+            BuildableName = "CSStickyHeaderFlowLayout.framework"
             BlueprintName = "CSStickyHeaderFlowLayoutCarthage"
             ReferencedContainer = "container:CSStickyHeaderFlowLayoutDemo.xcodeproj">
          </BuildableReference>
@@ -64,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF1D0D451D63203300F9FA68"
-            BuildableName = "CSStickyHeaderFlowLayoutCarthage.framework"
+            BuildableName = "CSStickyHeaderFlowLayout.framework"
             BlueprintName = "CSStickyHeaderFlowLayoutCarthage"
             ReferencedContainer = "container:CSStickyHeaderFlowLayoutDemo.xcodeproj">
          </BuildableReference>
